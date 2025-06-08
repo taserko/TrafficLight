@@ -16,7 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="440" height="956"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <view alpha="0.5" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="u9O-RH-gmY">
+                            <view alpha="0.29999999999999999" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="u9O-RH-gmY">
                                 <rect key="frame" x="160" y="144" width="120" height="120"/>
                                 <color key="backgroundColor" systemColor="systemRedColor"/>
                                 <constraints>
@@ -24,7 +24,7 @@
                                     <constraint firstAttribute="width" constant="120" id="8FD-gO-y0U"/>
                                 </constraints>
                             </view>
-                            <view alpha="0.5" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Y1u-1C-Iub">
+                            <view alpha="0.29999999999999999" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Y1u-1C-Iub">
                                 <rect key="frame" x="160" y="444" width="120" height="120"/>
                                 <color key="backgroundColor" systemColor="systemGreenColor"/>
                             </view>
@@ -42,7 +42,7 @@
                                     <action selector="buttonStartTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Gkl-jk-ka8"/>
                                 </connections>
                             </button>
-                            <view alpha="0.5" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PVT-ik-cP5">
+                            <view alpha="0.29999999999999999" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PVT-ik-cP5">
                                 <rect key="frame" x="160" y="294" width="120" height="120"/>
                                 <color key="backgroundColor" systemColor="systemYellowColor"/>
                             </view>

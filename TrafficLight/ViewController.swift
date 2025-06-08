@@ -28,19 +28,19 @@ class ViewController: UIViewController {
         buttonStart.setTitle("Next", for: .normal)
         
         if lightRed.alpha == 1 {
-            lightRed.alpha = 0.5
+            lightRed.alpha = 0.3
             lightYellow.alpha = 1
             return
         }
 
         if lightYellow.alpha == 1 {
-            lightYellow.alpha = 0.5
+            lightYellow.alpha = 0.3
             lightGreen.alpha = 1
             return
         }
 
         if lightGreen.alpha == 1 {
-            lightGreen.alpha = 0.5
+            lightGreen.alpha = 0.3
             lightRed.alpha = 1
             return
         }
